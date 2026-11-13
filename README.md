@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Juan Esteban Rijo Pineda 👋
+**Full-Stack & Mobile Software Engineer**
 
-<!--
-**Juancho024/Juancho024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollo aplicaciones móviles multiplataforma, APIs REST escalables y sistemas de gestión empresarial enfocados en rendimiento y arquitectura modular.
 
-Here are some ideas to get you started:
+### 🛠️ Stack Principal
+- **Backend:** Java (Spring Boot, Maven), Node.js, Express
+- **Frontend & Mobile:** React, React Native (Expo), TypeScript, Tailwind CSS, JavaFX
+- **Bases de Datos:** PostgreSQL, MariaDB, SQLite, Supabase
+- **DevOps & Redes:** Linux (Ubuntu/Fedora), Nginx, Git, Cisco Routing & Switching
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 En qué me enfoco
+- Diseño de arquitecturas cliente-servidor seguras (JWT, biometría, control de acceso por roles).
+- Aplicaciones móviles *offline-first* con sincronización local y widgets nativos.
+- Optimización de consultas SQL y modelado relacional para sistemas ERP/POS y administración.
+
+📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/juanrijodev) • [Correo](mailto:juanrijo240@gmail.com) [Correo](mailto:jerp0001@ce.pucmm.edu.do)

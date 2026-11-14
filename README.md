@@ -35,7 +35,7 @@ Desarrollo aplicaciones móviles multiplataforma, APIs REST escalables y sistema
 
 | Proyecto | Enfoque Técnico | Stack Principal |
 | :--- | :--- | :--- |
-| **ResiFlow / SystemManager** | Ecosistema móvil y API REST para gestión de residenciales: control de acceso con pases QR temporales, reserva de áreas comunes, validación de pagos y roles (Admin/Propietario). | `React Native` • `Spring Boot` • `MariaDB` • `JWT` |
+| **ResiFlow / SystemManager** | Ecosistema móvil y API REST para gestión de residenciales: control de acceso con pases QR temporales, reserva de áreas comunes, validación de pagos y roles (Admin/Propietario). | `React Native` • `Spring Boot` • `Postgres` • `JWT` |
 | **DriveWallet** | Aplicación móvil *offline-first* de finanzas personales con autenticación biométrica, widgets nativos en Android, notificaciones locales y persistencia relacional. | `React Native (Expo)` • `TypeScript` • `SQLite` |
 | **Manager_Mantenimiento** | Sistema de escritorio modular para control de inventario, órdenes de servicio y mantenimiento técnico. | `Java` • `JavaFX` • `Maven` • `SQL` |
 
@@ -50,4 +50,4 @@ Desarrollo aplicaciones móviles multiplataforma, APIs REST escalables y sistema
 
 ---
 
-📫 **Contacto:** [LinkedIn — in/juanrijodev](https://www.linkedin.com/in/juanrijodev) • [jerp0001@ce.pucmm.edu.do](mailto:jerp0001@ce.pucmm.edu.do)
+📫 **Contacto:** [LinkedIn — in/juanrijodev](https://www.linkedin.com/in/juanrijodev) • [jerp0001@ce.pucmm.edu.do](mailto:jerp0001@ce.pucmm.edu.do) • [juanrijo240@gmail.com](mailto:juanrijo240@gmail.com)

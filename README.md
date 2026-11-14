@@ -44,8 +44,8 @@ Desarrollo aplicaciones móviles multiplataforma, APIs REST escalables y sistema
 ### 📊 Actividad y Estadísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Juancho024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juancho024&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juancho024&theme=tokyonight" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juancho024&theme=tokyonight" />
 </div>
 
 ---
